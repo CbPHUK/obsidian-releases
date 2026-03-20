@@ -19206,5 +19206,12 @@
     "description": "Content-addressed attachment storage for automatic deduplication. Works entirely locally; optionally uses GitHub private repositories for hosting.",
     "author": "NateScarlet",
     "repo": "NateScarlet/obsidian-content-addressed-attachments"
+  },
+  {
+    "id": "savehub-sync",
+    "name": "SaveHub Sync",
+    "author": "SaveHub",
+    "description": "Sync notes from your SaveHub Telegram bot into your vault. Captures text, links, voice transcriptions, and forwarded posts - organised by folder with tags, graph links, and a live dashboard.",
+    "repo": "CbPHUK/obsidian-savehub-sync"
   }
 ]
